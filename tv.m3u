@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-
-
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-country="AR" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telefe_logo_tx_blanco_alpha.png" group-title="NACIONALES", Telefe HD
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
 
@@ -17,12 +15,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/a/m/america.png" group-title="NACIONALES", AMÉRICA HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 
 
-
-#EXTINF:-1 tvg-id="" group-title="Nacional" tvg-logo="", El nueve
-
-
-
-#EXTINF:-1 tvg-id="" group-title="Nacional" tvg-logo="", Telemax
 
 #EXTINF:-1 tvg-id="NETTV.ar" group-title="Nacional" tvg-logo="https://i.imgur.com/296ICn5.png", Net TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
@@ -44,6 +36,10 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 https://g4.vxral-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
 
+#EXTINF:-1 tvg-id="298" tvg-name="TV Publica Fueguina" tvg-logo="https://cdn.m3u.cl/logo/298_TV_Publica_Fueguina.png", TV Publica Fueguina
+https://nd106.republicaservers.com:4433/c6988.mp4?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo="" group-title="",Canal Cinco Tigre
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
@@ -58,6 +54,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", TN Todo Noticias 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0061
 
@@ -68,9 +65,24 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0079
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 
-
-#EXTINF:-1 tvg-id="garagetv.es" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="", GARAGE TV
+#EXTINF:-1 tvg-id="garagetv.es" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title=", GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TYC Sport
+http://tvbross.com:8090/live/33o0Mf9vFg/XkgtGOoiYy/2421.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="", Espn 
+http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3082
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="", Espn Premium
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173358.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="", TNT Sport
+http://tvbross.com:8090/live/33o0Mf9vFg/XkgtGOoiYy/37542.ts
 
 
 #EXTINF:-1 channel-id="pluto-5dd6dc7480e3550009133d4a" tvg-id="5dd6dc7480e3550009133d4a" tvg-chno="500" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Curiosidad" , Pluto TV Velocidad
@@ -91,7 +103,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Azteca Deportes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 
 
@@ -191,8 +202,16 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mo
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png", +Cine * | CL
+#EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png", +Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", Terror TV
+https://tv.streaming-chile.com:19360/8140/8140.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="1235" tvg-name="Origen TV" tvg-logo="https://cdn.m3u.cl/logo/1235_Origen_TV.png", Origen TV
+https://tv.streaming-chile.com:8081/origentvsd/index.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 channel-id="pluto-5dd6dae8ce788b0009eaf77b" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-chno="1480" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="Kids", Pluto TV Kids
@@ -426,6 +445,7 @@ http://181.78.105.146:2000/play/a04x/index.m3u8
 
 
 
+#EXTINF:-1 channel-id="pluto-619d59b7cbef25000728221c" tvg-id="619d59b7cbef25000728221c" tvg-chno="685" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="Noticias", Euronews Español
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", DW ESPAÑOL
@@ -436,8 +456,13 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 
+
 #EXTINF:-1 tvg-id="1470" tvg-name="La 100" tvg-logo="https://cdn.m3u.cl/logo/1470_La_100.png", La 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="1373" tvg-name="Vorterix" tvg-logo="https://cdn.m3u.cl/logo/1373_Vorterix.png", Vorterix
+https://g4.vxral-slo.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all/Playlist.m3u8?sense=true&PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", MTV Classic
@@ -494,4 +519,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2
 
 #EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-chno="2500" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Music", Vevo 2K
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+
+
+
+
 
