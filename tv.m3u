@@ -20,13 +20,13 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar@SD" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="General - Nacional", Canal 9 Resistencia
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General - Nacional", Ciudad tv Resistencia
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1374019613231579138/8hXClQRl_400x400.jpg" group-title="General - Nacional", Ciudad tv Resistencia
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/chunklist_w1462894571.m3u8
 
 #EXTINF:-1 tvg-id="NGFederal.ar@SD" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="General - Nacional",NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="https://i.imgur.com/b6RerDw.png" group-title="General - Nacional", Somos Uno Resistencia
+#EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="https://canalsomosuno.tv/build/img/somosuno.svg" group-title="General - Nacional", Somos Uno Resistencia
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="General - Nacional" ,Ciudad Magazine
@@ -38,7 +38,7 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="General - Nacional", NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="Canal4Jujuy.ar@SD" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Undefined",Canal 4 Jujuy
+#EXTINF:-1 tvg-id="Canal4Jujuy.ar@SD" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="General - Nacional",Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" tvg-logo="https://jrlist70.pages.dev/list/wise.png" group-title="General - Internacional", Wise Tv
@@ -80,7 +80,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 
 
 
-#EXTINF:-1, channel-id="" tvg-id="" tvg-chno="" tvg-name="" tvg-logo="https://es.wikipedia.org/wiki/Studio_Universal_(Latinoam%C3%A9rica)#/media/Archivo:StudioUniversal2016.png" group-title="Películas", Studio Universal
+#EXTINF:-1, channel-id="" tvg-id="" tvg-chno="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="Películas", Studio Universal
 http://181.119.86.68:8000/play/c024/index.m3u8
 
 #EXTINF:-1 channel-id="6334a4d7ae975100073994a2" tvg-id="6334a4d7ae975100073994a2" tvg-chno="4165" tvg-name="Cine navideño" tvg-logo="https://images.pluto.tv/channels/6334a4d7ae975100073994a2/colorLogoPNG_1761088385653.png" group-title="Películas",Cine navideño
@@ -162,10 +162,11 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="CosmosTv.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Películas", Cosmos Tv
 https://canaletaplus.com:3922/hybrid/play.m3u8
 
-
-
 #EXTINF:-1 tvg-id="SonyChannel.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Peliculas y Series", Sony Channel
 http://38.183.182.166:8000/play/a0vg/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="Peliculas y Series", Warner Channel
+http://179.51.136.19:8000/play/a0pu/index.m3u8
 
 
 
