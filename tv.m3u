@@ -80,7 +80,8 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 
 
 
-
+#EXTINF:-1, channel-id="" tvg-id="" tvg-chno="" tvg-name="" tvg-logo="https://es.wikipedia.org/wiki/Studio_Universal_(Latinoam%C3%A9rica)#/media/Archivo:StudioUniversal2016.png" group-title="Películas", Studio Universal
+http://181.119.86.68:8000/play/c024/index.m3u8
 
 #EXTINF:-1 channel-id="6334a4d7ae975100073994a2" tvg-id="6334a4d7ae975100073994a2" tvg-chno="4165" tvg-name="Cine navideño" tvg-logo="https://images.pluto.tv/channels/6334a4d7ae975100073994a2/colorLogoPNG_1761088385653.png" group-title="Películas",Cine navideño
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a4d7ae975100073994a2/master.m3u8?deviceType=web&deviceMake=edge-chromium&deviceModel=web&deviceVersion=142.0.0&appName=web&appVersion=9.17.1&deviceLat=40.71&deviceLon=-74.00&deviceDNT=0&deviceId=792c6182-b93b-4e04-b128-3206adc85436&advertisingId=792c6182-b93b-4e04-b128-3206adc85436
