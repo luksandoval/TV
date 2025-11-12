@@ -146,10 +146,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d80dc6de440007e033
 #EXTINF:-1 tvg-id="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Películas", Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Películas", Cinecanal
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlus.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png" group-title="Películas", MGM+
-https://fl1.moveonjoy.com/EPIX/index.m3u8
+
 #EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Películas", Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
@@ -162,8 +159,25 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="CosmosTv.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Películas", Cosmos Tv
 https://canaletaplus.com:3922/hybrid/play.m3u8
 
+
+
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Películas", Cinecanal
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Películas", FX
+http://181.119.85.222:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-id="MGMPlus.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png" group-title="Películas", MGM+
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1920px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas y Series",DHE
+http://181.119.86.68:8000/play/b006/index.m3u8
+
 #EXTINF:-1 tvg-id="SonyChannel.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Peliculas y Series", Sony Channel
 http://38.183.182.166:8000/play/a0vg/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/800px-TNT_Logo_2016.svg.png" group-title="Peliculas y Series",TNT
+http://181.205.130.194:4000/play/a06n
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="Peliculas y Series", Warner Channel
 http://179.51.136.19:8000/play/a0pu/index.m3u8
@@ -232,8 +246,11 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg" group-title="Documental",HISTORY
+http://181.119.86.68:8000/play/c020/index.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg" group-title="Documental",HISTORY 2
+http://181.119.86.68:8000/play/c019/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documental", National Geographic
 http://38.183.182.166:8000/play/a0vd/index.m3u8
