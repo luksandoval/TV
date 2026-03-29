@@ -270,7 +270,7 @@ https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1 tvg-id="MemoriasTVSeries.co@SD" tvg-logo="https://i.imgur.com/ohCSMhY.png" group-title="Series",Memorias TV Series
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
 #EXTINF:-1 tvg-id="MemoriasTVToons.co@SD" tvg-logo="https://i.imgur.com/2fiiNCz.png" group-title="Kids",Memorias TV Toons
-https://video.xtrematv.com:3812/live/memoriastoonslive.m
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 
 
 
@@ -284,6 +284,10 @@ http://animezonetv.net/hls/stream.m3u8
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Animation",EnerGeek Fan
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" ,AnimeStation 1 HD 
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" ,AnimeStation 2 HD
+https://live20.bozztv.com/giatv/giatv-livestreamingtv/livestreamingtv/chunks.m3u8
 
 
 
