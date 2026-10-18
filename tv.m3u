@@ -199,6 +199,30 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 #EXTINF:-1 tvg-id="ENTFamily.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Entertainment",ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
+#EXTINF:-1 tvg-id="ENTExtreme.uk@HD" tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png
+" group-title="Entertainment",ENT Extreme
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="ENTComedy.uk@HD" tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png
+" group-title="Entertainment",ENT Comedy
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="ENTMovies.uk@HD" tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png
+" group-title="Entertainment",ENT Movies
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="ENTDrama.uk@HD" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png
+" group-title="Entertainment",ENT Drama
+https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="ENTClassic.uk@HD" tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png
+" group-title="Entertainment",ENT Classic
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="ENTLife.uk@HD" tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png
+" group-title="Entertainment",ENT Life
+https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
+
 #EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Películas", Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
