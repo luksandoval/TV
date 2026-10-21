@@ -36,8 +36,8 @@ http://ejemplo.com/stream/canal13corrientes.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tn-ar.png" group-title="Noticias",TN
 http://ejemplo.com/stream/tn.m3u8
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a24-ar.png" group-title="Noticias",A24
-http://ejemplo.com/stream/a24.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="AR - A24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a24-ar.png" group-title="Noticias",A24
+
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cronica-tv-ar.png" group-title="Noticias",Cronica TV
 http://ejemplo.com/stream/cronicatv.m3u8
@@ -198,7 +198,7 @@ http://ejemplo.com/stream/studiouniversal.m3u8
 #EXTINF:-1 tvg-id="AandE.ar" tvg-name="AR - A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/a-and-e-latam.png" group-title="Cine y Series",A&E
 http://ejemplo.com/stream/ae.m3u8
 
-#EXTINF:-1 tvg-id="AMC.lat" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/amc-latam.png" group-title="Cine y Series",AMC
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AR - AMC" tvg-logo="" group-title="Cine y Series",AMC
 http://ejemplo.com/stream/amc.m3u8
 
 #EXTINF:-1 tvg-id="EuropaEuropa.lat" tvg-name="Europa Europa" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/europa-europa-latam.png" group-title="Cine y Series",Europa Europa
