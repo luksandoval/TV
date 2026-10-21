@@ -3,7 +3,7 @@
 # ==========================================
 # NACIONALES Y AIRE
 # ==========================================
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/telefe-ar.png" group-title="Nacionales y Aire",Telefe
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="AR - Telefe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/telefe-ar.png" group-title="Nacionales y Aire",Telefe
 http://ejemplo.com/stream/telefe.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/eltrece-ar.png" group-title="Nacionales y Aire",El Trece
@@ -81,11 +81,11 @@ http://ejemplo.com/stream/espn7.m3u8
 #EXTINF:-1 tvg-id="ESPNExtra.ar" tvg-name="ESPN Extra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-extra-ar.png" group-title="Deportes",ESPN Extra
 http://ejemplo.com/stream/espnextra.m3u8
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png" group-title="Deportes",ESPN Premium
-http://ejemplo.com/stream/espnpremium.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="AR - ESPN Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png" group-title="Deportes",ESPN Premium
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png" group-title="Deportes",TNT Sports
-http://ejemplo.com/stream/tntsports.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="AR - TNT Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png" group-title="Deportes",TNT Sports
+
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png" group-title="Deportes",Fox Sports
 http://ejemplo.com/stream/foxsports.m3u8
@@ -195,7 +195,7 @@ http://ejemplo.com/stream/axn.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.lat" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-latam.png" group-title="Cine y Series",Studio Universal
 http://ejemplo.com/stream/studiouniversal.m3u8
 
-#EXTINF:-1 tvg-id="AE.lat" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/a-and-e-latam.png" group-title="Cine y Series",A&E
+#EXTINF:-1 tvg-id="AandE.ar" tvg-name="AR - A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/a-and-e-latam.png" group-title="Cine y Series",A&E
 http://ejemplo.com/stream/ae.m3u8
 
 #EXTINF:-1 tvg-id="AMC.lat" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/amc-latam.png" group-title="Cine y Series",AMC
