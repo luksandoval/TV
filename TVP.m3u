@@ -3,14 +3,14 @@
 # ==========================================
 # NACIONALES Y AIRE
 # ==========================================
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="AR - Telefe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/telefe-ar.png" group-title="Nacionales y Aire",Telefe
-http://ejemplo.com/stream/telefe.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="AR - Telefe" tvg-logo="" group-title="Nacionales y Aire",Telefe
+
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/eltrece-ar.png" group-title="Nacionales y Aire",El Trece
 http://ejemplo.com/stream/eltrece.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/america-tv-ar.png" group-title="Nacionales y Aire",America
-http://ejemplo.com/stream/america.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="AR - América TV" tvg-logo="" group-title="Nacionales y Aire",America
+
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="ElNueve" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/elnueve-ar.png" group-title="Nacionales y Aire",ElNueve
 http://ejemplo.com/stream/elnueve.m3u8
@@ -39,11 +39,11 @@ http://ejemplo.com/stream/tn.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="AR - A24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a24-ar.png" group-title="Noticias",A24
 
 
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cronica-tv-ar.png" group-title="Noticias",Cronica TV
-http://ejemplo.com/stream/cronicatv.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="AR - Cronica TV" tvg-logo="" group-title="Noticias", Cronica TV
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="26 TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-26-ar.png" group-title="Noticias",26 TV
-http://ejemplo.com/stream/26tv.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="AR - Canal 26" tvg-logo="" group-title="Noticias", Canal 26 TV
+
 
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="La Nacion +" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/ln-plus-ar.png" group-title="Noticias",La Nacion +
 http://ejemplo.com/stream/lanacionplus.m3u8
@@ -117,11 +117,11 @@ http://ejemplo.com/stream/nickelodeon.m3u8
 #EXTINF:-1 tvg-id="NickJr.lat" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/nick-jr-latam.png" group-title="Infantiles",Nick Jr
 http://ejemplo.com/stream/nickjr.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cartoon-network-latam.png" group-title="Infantiles",Cartoon Network
-http://ejemplo.com/stream/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.ar" tvg-name="AR - Cartoon Network" tvg-logo="" group-title="Infantiles", Cartoon Network
 
-#EXTINF:-1 tvg-id="Cartoonito.lat" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cartoonito-latam.png" group-title="Infantiles",Cartoonito
-http://ejemplo.com/stream/cartoonito.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito.ar" tvg-name="AR - Cartoonito" tvg-logo="" group-title="Infantiles", Cartoonito
+
 
 #EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-latam.png" group-title="Infantiles",Discovery Kids
 http://ejemplo.com/stream/discoverykids.m3u8
@@ -174,11 +174,11 @@ http://ejemplo.com/stream/tnt.m3u8
 #EXTINF:-1 tvg-id="Space.lat" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/space-latam.png" group-title="Cine y Series",Space
 http://ejemplo.com/stream/space.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.lat" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cinemax-latam.png" group-title="Cine y Series",Cinemax
-http://ejemplo.com/stream/cinemax.m3u8
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="AR - Cinemax" tvg-logo="" group-title="Cine y Series", Cinemax
 
-#EXTINF:-1 tvg-id="Cinecanal.lat" tvg-name="Cinecanal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cinecanal-latam.png" group-title="Cine y Series",Cinecanal
-http://ejemplo.com/stream/cinecanal.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="AR - Cinecanal" tvg-logo="" group-title="Cine y Series", Cinecanal
+
 
 #EXTINF:-1 tvg-id="WarnerChannel.lat" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/warner-channel-latam.png" group-title="Cine y Series",Warner Channel
 http://ejemplo.com/stream/warnerchannel.m3u8
@@ -189,17 +189,17 @@ http://ejemplo.com/stream/sonychannel.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.lat" tvg-name="Universal Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/universal-tv-latam.png" group-title="Cine y Series",Universal Channel
 http://ejemplo.com/stream/universalchannel.m3u8
 
-#EXTINF:-1 tvg-id="AXN.lat" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/axn-latam.png" group-title="Cine y Series",AXN
-http://ejemplo.com/stream/axn.m3u8
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="AR - AXN" tvg-logo="" group-title="Cine y Series", AXN
+
 
 #EXTINF:-1 tvg-id="StudioUniversal.lat" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-latam.png" group-title="Cine y Series",Studio Universal
 http://ejemplo.com/stream/studiouniversal.m3u8
 
 #EXTINF:-1 tvg-id="AandE.ar" tvg-name="AR - A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/a-and-e-latam.png" group-title="Cine y Series",A&E
-http://ejemplo.com/stream/ae.m3u8
 
-#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AR - AMC" tvg-logo="" group-title="Cine y Series",AMC
-http://ejemplo.com/stream/amc.m3u8
+
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AR - AMC" tvg-logo="" group-title="Cine y Series", AMC
+
 
 #EXTINF:-1 tvg-id="EuropaEuropa.lat" tvg-name="Europa Europa" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/europa-europa-latam.png" group-title="Cine y Series",Europa Europa
 http://ejemplo.com/stream/europaeuropa.m3u8
@@ -213,8 +213,8 @@ http://ejemplo.com/stream/paramount.m3u8
 #EXTINF:-1 tvg-id="DHE.lat" tvg-name="DHE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dhe-latam.png" group-title="Cine y Series",DHE
 http://ejemplo.com/stream/dhe.m3u8
 
-#EXTINF:-1 tvg-id="A3Series.es" tvg-name="A3 Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/atreseries-es.png" group-title="Cine y Series",A3 Series
-http://ejemplo.com/stream/a3series.m3u8
+#EXTINF:-1 tvg-id="Atreseries.ar" tvg-name="AR - Atreseries" tvg-logo="" group-title="Cine y Series",A3 Series
+
 
 #EXTINF:-1 tvg-id="A3Cine.es" tvg-name="A3 Cine" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/atrescine-es.png" group-title="Cine y Series",A3 Cine
 http://ejemplo.com/stream/a3cine.m3u8
@@ -240,8 +240,8 @@ http://ejemplo.com/stream/sonymovies.m3u8
 #EXTINF:-1 tvg-id="SonyCine.lat" tvg-name="Sony Cine" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/sony-cine-latam.png" group-title="Cine y Series",Sony Cine
 http://ejemplo.com/stream/sonycine.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentral.lat" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/comedy-central-latam.png" group-title="Cine y Series",Comedy Central
-http://ejemplo.com/stream/comedycentral.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="AR - Comedy Central" tvg-logo="" group-title="Cine y Series", Comedy Central
+
 
 #EXTINF:-1 tvg-id="AdultSwim.lat" tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/adult-swim-latam.png" group-title="Cine y Series",Adult Swim
 http://ejemplo.com/stream/adultswim.m3u8
@@ -264,8 +264,8 @@ http://ejemplo.com/stream/discoveryscience.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.lat" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/national-geographic-latam.png" group-title="Documentales",National Geographic
 http://ejemplo.com/stream/nationalgeographic.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.lat" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/animal-planet-latam.png" group-title="Documentales",Animal Planet
-http://ejemplo.com/stream/animalplanet.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="AR - Animal Planet" tvg-logo="" group-title="Documentales", Animal Planet
+
 
 #EXTINF:-1 tvg-id="History.lat" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/history-latam.png" group-title="Documentales",History
 http://ejemplo.com/stream/history.m3u8
