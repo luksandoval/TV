@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ar.xml,https://iptv-org.github.io/epg/guides/ar.xml"
 
-# ==========================================
-# NACIONALES Y AIRE
-# ==========================================
+
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="AR - Telefe" tvg-logo="" group-title="Nacionales y Aire",Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
@@ -27,12 +25,9 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-name="Canal 9 Resistencia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-9-imagen-del-nordeste-ar.png" group-title="Nacionales y Aire",Canal 9 Resistencia
 
 
-#EXTINF:-1 tvg-id="Canal13Corrientes.ar" tvg-name="Canal 13 Corrientes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-13-max-ar.png" group-title="Nacionales y Aire",Canal 13 Corrientes
+#EXTINF:-1 tvg-id="Canal13Corrientes.ar" tvg-name="Canal 13 Corrientes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-13-max-ar.png" group-title="Nacionales y Aire", Canal 13 Corrientes
 
 
-# ==========================================
-# NOTICIAS Y ENTRETENIMIENTO LOCAL
-# ==========================================
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="AR - TN" tvg-logo="" group-title="Noticias",TN
 
 
@@ -49,11 +44,9 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="Ciudad Magazine" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/ciudad-magazine-ar.png" group-title="Noticias y Variedades",Ciudad Magazine
-http://ejemplo.com/stream/ciudadmagazine.m3u8
 
-# ==========================================
-# DEPORTES
-# ==========================================
+
+
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="AR - TyC Sports" tvg-logo="" group-title="Deportes",TyC Sports
 http://45.170.130.224:8000/play/a020/index.m3u8
 
@@ -104,16 +97,14 @@ http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="ElGarageTv.ar" tvg-name="AR - El Garage Tv" tvg-logo="" group-title="Deportes", El Garage TV
 
 
-# ==========================================
-# INFANTILES Y FAMILIARES
-# ==========================================
+
 #EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-name="AR - Disney Channel" tvg-logo="" group-title="Infantiles", Disney Channel
 
 
 #EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="AR - Disney Junior" tvg-logo="" group-title="Infantiles", Disney Jr
 
 
-#EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/nickelodeon-latam.png" group-title="Infantiles",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.ar" tvg-name="AR - Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/nickelodeon-latam.png" group-title="Infantiles", Nickelodeon
 
 
 #EXTINF:-1 tvg-id="NickJr..AR" tvg-name="AR - Nick Jr." tvg-logo="" group-title="Infantiles", Nick Jr
@@ -136,9 +127,7 @@ http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="PakaPaka.ar" tvg-name="AR - Paka Paka" tvg-logo="" group-title="Infantiles", Paka Paka
 
 
-# ==========================================
-# CINE Y SERIES / PREMIUM
-# ==========================================
+
 #EXTINF:-1 tvg-id="HBO.ar" tvg-name="AR - HBO" tvg-logo="" group-title="Cine y Series", HBO
 
 
@@ -253,9 +242,7 @@ https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ar" tvg-name="AR - Investigacion Discovery" tvg-logo="" group-title="Cine y Series",ID Investigacion Discovery
 
 
-# ==========================================
-# DOCUMENTALES Y CULTURA
-# ==========================================
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.ar" tvg-name="AR - Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-channel-latam.png" group-title="Documentales",Discovery Channel
 
 
@@ -277,9 +264,7 @@ https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 #EXTINF:-1 tvg-id="History2.ar" tvg-name="AR - History 2" tvg-logo="" group-title="Documentales", History 2
 
 
-# ==========================================
-# ESTILO DE VIDA Y VARIEDADES
-# ==========================================
+
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="AR - El Gourmet" tvg-logo="" group-title="Estilo de Vida",El Gourmet
 
 
