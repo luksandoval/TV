@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/es.xml"
+
 # ==========================================
 # NACIONALES Y AIRE
 # ==========================================
@@ -128,4 +129,164 @@ http://ejemplo.com/stream/discoverykids.m3u8
 #EXTINF:-1 tvg-id="Dreamworks.lat" tvg-name="Dreamworks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dreamworks-channel-latam.png" group-title="Infantiles",Dreamworks
 http://ejemplo.com/stream/dreamworks.m3u8
 
-#EXTINF:-1 tvg-id="Tooncast.lat" tvg-name="Tooncast" tvg-logo="
+#EXTINF:-1 tvg-id="Tooncast.lat" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tooncast-latam.png" group-title="Infantiles",Tooncast
+http://ejemplo.com/stream/tooncast.m3u8
+
+#EXTINF:-1 tvg-id="PakaPaka.ar" tvg-name="Paka Paka" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/pakapaka-ar.png" group-title="Infantiles",Paka Paka
+http://ejemplo.com/stream/pakapaka.m3u8
+
+# ==========================================
+# CINE Y SERIES / PREMIUM
+# ==========================================
+#EXTINF:-1 tvg-id="HBO.lat" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-latam.png" group-title="Cine y Series",HBO
+http://ejemplo.com/stream/hbo.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.lat" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-2-latam.png" group-title="Cine y Series",HBO 2
+http://ejemplo.com/stream/hbo2.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily.lat" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-family-latam.png" group-title="Cine y Series",HBO Family
+http://ejemplo.com/stream/hbofamily.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlus.lat" tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-plus-latam.png" group-title="Cine y Series",HBO Plus
+http://ejemplo.com/stream/hboplus.m3u8
+
+#EXTINF:-1 tvg-id="HBOMundi.lat" tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-mundi-latam.png" group-title="Cine y Series",HBO Mundi
+http://ejemplo.com/stream/hbomundi.m3u8
+
+#EXTINF:-1 tvg-id="HBOPop.lat" tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-pop-latam.png" group-title="Cine y Series",HBO Pop
+http://ejemplo.com/stream/hbopop.m3u8
+
+#EXTINF:-1 tvg-id="HBOExtreme.lat" tvg-name="HBO Extreme" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-extreme-latam.png" group-title="Cine y Series",HBO Extreme
+http://ejemplo.com/stream/hboextreme.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature.lat" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-signature-latam.png" group-title="Cine y Series",HBO Signature
+http://ejemplo.com/stream/hbosignature.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.lat" tvg-name="Star Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/star-channel-latam.png" group-title="Cine y Series",Star Channel
+http://ejemplo.com/stream/starchannel.m3u8
+
+#EXTINF:-1 tvg-id="FX.lat" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fx-latam.png" group-title="Cine y Series",FX
+http://ejemplo.com/stream/fx.m3u8
+
+#EXTINF:-1 tvg-id="TNT.lat" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tnt-latam.png" group-title="Cine y Series",TNT
+http://ejemplo.com/stream/tnt.m3u8
+
+#EXTINF:-1 tvg-id="Space.lat" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/space-latam.png" group-title="Cine y Series",Space
+http://ejemplo.com/stream/space.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.lat" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cinemax-latam.png" group-title="Cine y Series",Cinemax
+http://ejemplo.com/stream/cinemax.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.lat" tvg-name="Cinecanal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cinecanal-latam.png" group-title="Cine y Series",Cinecanal
+http://ejemplo.com/stream/cinecanal.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.lat" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/warner-channel-latam.png" group-title="Cine y Series",Warner Channel
+http://ejemplo.com/stream/warnerchannel.m3u8
+
+#EXTINF:-1 tvg-id="SonyChannel.lat" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/sony-channel-latam.png" group-title="Cine y Series",Sony Channel
+http://ejemplo.com/stream/sonychannel.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTV.lat" tvg-name="Universal Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/universal-tv-latam.png" group-title="Cine y Series",Universal Channel
+http://ejemplo.com/stream/universalchannel.m3u8
+
+#EXTINF:-1 tvg-id="AXN.lat" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/axn-latam.png" group-title="Cine y Series",AXN
+http://ejemplo.com/stream/axn.m3u8
+
+#EXTINF:-1 tvg-id="StudioUniversal.lat" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-latam.png" group-title="Cine y Series",Studio Universal
+http://ejemplo.com/stream/studiouniversal.m3u8
+
+#EXTINF:-1 tvg-id="AE.lat" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/a-and-e-latam.png" group-title="Cine y Series",A&E
+http://ejemplo.com/stream/ae.m3u8
+
+#EXTINF:-1 tvg-id="AMC.lat" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/amc-latam.png" group-title="Cine y Series",AMC
+http://ejemplo.com/stream/amc.m3u8
+
+#EXTINF:-1 tvg-id="EuropaEuropa.lat" tvg-name="Europa Europa" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/europa-europa-latam.png" group-title="Cine y Series",Europa Europa
+http://ejemplo.com/stream/europaeuropa.m3u8
+
+#EXTINF:-1 tvg-id="EuroChannel.lat" tvg-name="Euro Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/eurochannel-latam.png" group-title="Cine y Series",Euro Channel
+http://ejemplo.com/stream/eurochannel.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.lat" tvg-name="Paramount" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/paramount-network-latam.png" group-title="Cine y Series",Paramount
+http://ejemplo.com/stream/paramount.m3u8
+
+#EXTINF:-1 tvg-id="DHE.lat" tvg-name="DHE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dhe-latam.png" group-title="Cine y Series",DHE
+http://ejemplo.com/stream/dhe.m3u8
+
+#EXTINF:-1 tvg-id="A3Series.es" tvg-name="A3 Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/atreseries-es.png" group-title="Cine y Series",A3 Series
+http://ejemplo.com/stream/a3series.m3u8
+
+#EXTINF:-1 tvg-id="A3Cine.es" tvg-name="A3 Cine" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/atrescine-es.png" group-title="Cine y Series",A3 Cine
+http://ejemplo.com/stream/a3cine.m3u8
+
+#EXTINF:-1 tvg-id="Golden.lat" tvg-name="Golden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/golden-latam.png" group-title="Cine y Series",Golden
+http://ejemplo.com/stream/golden.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEdge.lat" tvg-name="Golden Edge" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/golden-edge-latam.png" group-title="Cine y Series",Golden Edge
+http://ejemplo.com/stream/goldenedge.m3u8
+
+#EXTINF:-1 tvg-id="GoldenPlus.lat" tvg-name="Golden Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/golden-plus-latam.png" group-title="Cine y Series",Golden Plus
+http://ejemplo.com/stream/goldenplus.m3u8
+
+#EXTINF:-1 tvg-id="GoldenPremier.lat" tvg-name="Golden Premier" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/golden-premier-latam.png" group-title="Cine y Series",Golden Premier
+http://ejemplo.com/stream/goldenpremier.m3u8
+
+#EXTINF:-1 tvg-id="GoldenPremier2.lat" tvg-name="Golden Premier 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/golden-premier-2-latam.png" group-title="Cine y Series",Golden Premier 2
+http://ejemplo.com/stream/goldenpremier2.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.lat" tvg-name="Sony Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/sony-movies-latam.png" group-title="Cine y Series",Sony Movies
+http://ejemplo.com/stream/sonymovies.m3u8
+
+#EXTINF:-1 tvg-id="SonyCine.lat" tvg-name="Sony Cine" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/sony-cine-latam.png" group-title="Cine y Series",Sony Cine
+http://ejemplo.com/stream/sonycine.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.lat" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/comedy-central-latam.png" group-title="Cine y Series",Comedy Central
+http://ejemplo.com/stream/comedycentral.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwim.lat" tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/adult-swim-latam.png" group-title="Cine y Series",Adult Swim
+http://ejemplo.com/stream/adultswim.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.lat" tvg-name="ID Investigacion Discovery" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/investigation-discovery-latam.png" group-title="Cine y Series",ID Investigacion Discovery
+http://ejemplo.com/stream/id.m3u8
+
+# ==========================================
+# DOCUMENTALES Y CULTURA
+# ==========================================
+#EXTINF:-1 tvg-id="DiscoveryChannel.lat" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-channel-latam.png" group-title="Documentales",Discovery Channel
+http://ejemplo.com/stream/discoverychannel.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTheater.lat" tvg-name="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-theater-latam.png" group-title="Documentales",Discovery Theater
+http://ejemplo.com/stream/discoverytheater.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryScience.lat" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-science-latam.png" group-title="Documentales",Discovery Science
+http://ejemplo.com/stream/discoveryscience.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.lat" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/national-geographic-latam.png" group-title="Documentales",National Geographic
+http://ejemplo.com/stream/nationalgeographic.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.lat" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/animal-planet-latam.png" group-title="Documentales",Animal Planet
+http://ejemplo.com/stream/animalplanet.m3u8
+
+#EXTINF:-1 tvg-id="History.lat" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/history-latam.png" group-title="Documentales",History
+http://ejemplo.com/stream/history.m3u8
+
+#EXTINF:-1 tvg-id="History2.lat" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/history-2-latam.png" group-title="Documentales",History 2
+http://ejemplo.com/stream/history2.m3u8
+
+# ==========================================
+# ESTILO DE VIDA Y VARIEDADES
+# ==========================================
+#EXTINF:-1 tvg-id="ElGourmet.lat" tvg-name="El Gourmet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/el-gourmet-latam.png" group-title="Estilo de Vida",El Gourmet
+http://ejemplo.com/stream/elgourmet.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.lat" tvg-name="Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-home-and-health-latam.png" group-title="Estilo de Vida",Discovery Home & Health
+http://ejemplo.com/stream/homeandhealth.m3u8
+
+#EXTINF:-1 tvg-id="TLC.lat" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tlc-latam.png" group-title="Estilo de Vida",TLC
+http://ejemplo.com/stream/tlc.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.lat" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hgtv-latam.png" group-title="Estilo de Vida",HGTV
+http://ejemplo.com/stream/hgtv.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryWorld.lat" tvg-name="Discovery World" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-world-latam.png" group-title="Estilo de Vida",Discovery World
+http://ejemplo.com/stream/discoveryworld.m3u8
