@@ -1,0 +1,131 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/es.xml"
+# ==========================================
+# NACIONALES Y AIRE
+# ==========================================
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/telefe-ar.png" group-title="Nacionales y Aire",Telefe
+http://ejemplo.com/stream/telefe.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/eltrece-ar.png" group-title="Nacionales y Aire",El Trece
+http://ejemplo.com/stream/eltrece.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/america-tv-ar.png" group-title="Nacionales y Aire",America
+http://ejemplo.com/stream/america.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="ElNueve" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/elnueve-ar.png" group-title="Nacionales y Aire",ElNueve
+http://ejemplo.com/stream/elnueve.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="Canal 7 TV Publica" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tv-publica-ar.png" group-title="Nacionales y Aire",Canal 7 TV Publica
+http://ejemplo.com/stream/canal7.m3u8
+
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/net-tv-ar.png" group-title="Nacionales y Aire",Net TV
+http://ejemplo.com/stream/nettv.m3u8
+
+#EXTINF:-1 tvg-id="BravoTV.ar" tvg-name="Bravo TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/bravo-tv-ar.png" group-title="Nacionales y Aire",Bravo TV
+http://ejemplo.com/stream/bravotv.m3u8
+
+#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-name="Canal 9 Resistencia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-9-imagen-del-nordeste-ar.png" group-title="Nacionales y Aire",Canal 9 Resistencia
+http://ejemplo.com/stream/canal9resistencia.m3u8
+
+#EXTINF:-1 tvg-id="Canal13Corrientes.ar" tvg-name="Canal 13 Corrientes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-13-max-ar.png" group-title="Nacionales y Aire",Canal 13 Corrientes
+http://ejemplo.com/stream/canal13corrientes.m3u8
+
+# ==========================================
+# NOTICIAS Y ENTRETENIMIENTO LOCAL
+# ==========================================
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tn-ar.png" group-title="Noticias",TN
+http://ejemplo.com/stream/tn.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a24-ar.png" group-title="Noticias",A24
+http://ejemplo.com/stream/a24.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cronica-tv-ar.png" group-title="Noticias",Cronica TV
+http://ejemplo.com/stream/cronicatv.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="26 TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-26-ar.png" group-title="Noticias",26 TV
+http://ejemplo.com/stream/26tv.m3u8
+
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="La Nacion +" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/ln-plus-ar.png" group-title="Noticias",La Nacion +
+http://ejemplo.com/stream/lanacionplus.m3u8
+
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="Ciudad Magazine" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/ciudad-magazine-ar.png" group-title="Noticias y Variedades",Ciudad Magazine
+http://ejemplo.com/stream/ciudadmagazine.m3u8
+
+# ==========================================
+# DEPORTES
+# ==========================================
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tyc-sports-ar.png" group-title="Deportes",TyC Sports
+http://ejemplo.com/stream/tycsports.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="Deportes",ESPN
+http://ejemplo.com/stream/espn.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-2-ar.png" group-title="Deportes",ESPN 2
+http://ejemplo.com/stream/espn2.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-3-ar.png" group-title="Deportes",ESPN 3
+http://ejemplo.com/stream/espn3.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4.ar" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-4-ar.png" group-title="Deportes",ESPN 4
+http://ejemplo.com/stream/espn4.m3u8
+
+#EXTINF:-1 tvg-id="ESPN5.ar" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-5-ar.png" group-title="Deportes",ESPN 5
+http://ejemplo.com/stream/espn5.m3u8
+
+#EXTINF:-1 tvg-id="ESPN6.ar" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-6-ar.png" group-title="Deportes",ESPN 6
+http://ejemplo.com/stream/espn6.m3u8
+
+#EXTINF:-1 tvg-id="ESPN7.ar" tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-7-ar.png" group-title="Deportes",ESPN 7
+http://ejemplo.com/stream/espn7.m3u8
+
+#EXTINF:-1 tvg-id="ESPNExtra.ar" tvg-name="ESPN Extra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-extra-ar.png" group-title="Deportes",ESPN Extra
+http://ejemplo.com/stream/espnextra.m3u8
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png" group-title="Deportes",ESPN Premium
+http://ejemplo.com/stream/espnpremium.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png" group-title="Deportes",TNT Sports
+http://ejemplo.com/stream/tntsports.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png" group-title="Deportes",Fox Sports
+http://ejemplo.com/stream/foxsports.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png" group-title="Deportes",Fox Sports 2
+http://ejemplo.com/stream/foxsports2.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-3-ar.png" group-title="Deportes",Fox Sports 3
+http://ejemplo.com/stream/foxsports3.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" group-title="Deportes",NBA TV
+http://ejemplo.com/stream/nbatv.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.lat" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-turbo-latam.png" group-title="Deportes",Discovery Turbo
+http://ejemplo.com/stream/discoveryturbo.m3u8
+
+# ==========================================
+# INFANTILES Y FAMILIARES
+# ==========================================
+#EXTINF:-1 tvg-id="DisneyChannel.lat" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/disney-channel-latam.png" group-title="Infantiles",Disney Channel
+http://ejemplo.com/stream/disneychannel.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJr.lat" tvg-name="Disney Jr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/disney-jr-latam.png" group-title="Infantiles",Disney Jr
+http://ejemplo.com/stream/disneyjr.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/nickelodeon-latam.png" group-title="Infantiles",Nickelodeon
+http://ejemplo.com/stream/nickelodeon.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.lat" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/nick-jr-latam.png" group-title="Infantiles",Nick Jr
+http://ejemplo.com/stream/nickjr.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cartoon-network-latam.png" group-title="Infantiles",Cartoon Network
+http://ejemplo.com/stream/cartoonnetwork.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito.lat" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cartoonito-latam.png" group-title="Infantiles",Cartoonito
+http://ejemplo.com/stream/cartoonito.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-latam.png" group-title="Infantiles",Discovery Kids
+http://ejemplo.com/stream/discoverykids.m3u8
+
+#EXTINF:-1 tvg-id="Dreamworks.lat" tvg-name="Dreamworks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dreamworks-channel-latam.png" group-title="Infantiles",Dreamworks
+http://ejemplo.com/stream/dreamworks.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.lat" tvg-name="Tooncast" tvg-logo="
