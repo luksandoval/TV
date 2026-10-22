@@ -22,16 +22,27 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BravoTV.ar" tvg-name="Bravo TV" tvg-logo="" group-title="Nacionales y Aire", Bravo TV
 
 
-#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-name="Canal 9 Resistencia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-9-imagen-del-nordeste-ar.png" group-title="Nacionales y Aire",Canal 9 Resistencia
-
+#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-name="Canal 9 Resistencia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-9-imagen-del-nordeste-ar.png" group-title="Nacionales y Aire", Canal 9 Resistencia
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal13Corrientes.ar" tvg-name="Canal 13 Corrientes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-13-max-ar.png" group-title="Nacionales y Aire", Canal 13 Corrientes
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1374019613231579138/8hXClQRl_400x400.jpg" group-title="Nacionales y Aire", Ciudad tv Resistencia
+https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/chunklist_w1462894571.m3u8
+
+#EXTINF:-1 tvg-id="NGFederal.ar" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="Nacionales y Aire", NG Federal
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-logo="https://canalsomosuno.tv/build/img/somosuno.svg" group-title="Nacionales y Aire", Somos Uno Resistencia
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="AR - TN" tvg-logo="" group-title="Noticias",TN
 
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="AR - A24" tvg-logo="png" group-title="Noticias",A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="AR - A24" tvg-logo="png" group-title="Noticias", A24
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="AR - Cronica TV" tvg-logo="" group-title="Noticias", Cronica TV
@@ -95,11 +106,12 @@ https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
 #EXTINF:-1 tvg-id="DiscoveryTurbo.ar" tvg-name="AR - Discovery Turbo" tvg-logo="" group-title="Deportes", Discovery Turbo
 
 #EXTINF:-1 tvg-id="ElGarageTv.ar" tvg-name="AR - El Garage Tv" tvg-logo="" group-title="Deportes", El Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 
 
 #EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-name="AR - Disney Channel" tvg-logo="" group-title="Infantiles", Disney Channel
-
+http://181.78.8.199:8000/play/a0dn/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="AR - Disney Junior" tvg-logo="" group-title="Infantiles", Disney Jr
 
@@ -177,6 +189,9 @@ http://38.65.175.84:8000/play/a093/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony.ar" tvg-name="AR - Sony" tvg-logo="g" group-title="Cine y Series", Sony Channel
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Cine y Series", Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="AR - Universal Channel" tvg-logo="" group-title="Cine y Series", Universal Channel
