@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="AR - Telefe" tvg-logo="" group-title="Nacionales y Aire",Telefe
-http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+http://45.173.231.22:8000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="AR - El Trece" tvg-logo=" group-title="Nacionales y Aire",El Trece
 
@@ -22,7 +22,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BravoTV.ar" tvg-name="Bravo TV" tvg-logo="" group-title="Nacionales y Aire", Bravo TV
 
 
-#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-name="Canal 9 Resistencia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-9-imagen-del-nordeste-ar.png" group-title="Nacionales y Aire", Canal 9 Resistencia
+#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-name="Canal 9 Resistencia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png" group-title="Nacionales y Aire", Canal 9 Resistencia
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal13Corrientes.ar" tvg-name="Canal 13 Corrientes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/canal-13-max-ar.png" group-title="Nacionales y Aire", Canal 13 Corrientes
@@ -34,12 +34,12 @@ https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/chunklist_w14628945
 #EXTINF:-1 tvg-id="NGFederal.ar" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="Nacionales y Aire", NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-logo="https://canalsomosuno.tv/build/img/somosuno.svg" group-title="Nacionales y Aire", Somos Uno Resistencia
+#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-logo="https://canalsomosuno.tv/wp-content/themes/somos-uno/assets/img/logo-somos-uno.webp" group-title="Nacionales y Aire", Somos Uno Resistencia
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="AR - TN" tvg-logo="" group-title="Noticias",TN
-
+http://158.172.155.130:8000/play/a0dp/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="AR - A24" tvg-logo="png" group-title="Noticias", A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
@@ -49,7 +49,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="AR - Canal 26" tvg-logo="" group-title="Noticias", Canal 26 TV
-
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="LN+.ar" tvg-name="AR - LN+" tvg-logo="" group-title="Noticias", La Nacion +
 
@@ -62,10 +62,10 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 http://45.170.130.224:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="AR - ESPN" tvg-logo="" group-title="Deportes", ESPN
-
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
 
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="AR - ESPN 2" tvg-logo="" group-title="Deportes", ESPN 2
-
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="AR - ESPN 3" tvg-logo="" group-title="Deportes", ESPN 3
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
@@ -83,16 +83,15 @@ https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 
 #EXTINF:-1 tvg-id="ESPNExtra.ar" tvg-name="AR - ESPN Extra" tvg-logo="" group-title="Deportes", ESPN Extra
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="AR - ESPN Premium" tvg-logo=" group-title="Deportes", ESPN Premium
-
+http://158.172.155.130:8000/play/a0ao/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="AR - TNT Sports" tvg-logo="" group-title="Deportes", TNT Sports
 
 
 #EXTINF:-1 tvg-id="FOXSportsConoSur.ar" tvg-name="AR - FOX Sports Cono Sur" tvg-logo="" group-title="Deportes", Fox Sports
-
+http://138.59.227.20:8000/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="AR - Fox Sports 2" tvg-logo="" group-title="Deportes",Fox Sports 2
 
@@ -104,6 +103,7 @@ https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
 
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.ar" tvg-name="AR - Discovery Turbo" tvg-logo="" group-title="Deportes", Discovery Turbo
+http://38.134.250.110:8000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGarageTv.ar" tvg-name="AR - El Garage Tv" tvg-logo="" group-title="Deportes", El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
@@ -120,34 +120,34 @@ http://181.78.8.199:8000/play/a0dn/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NickJr..AR" tvg-name="AR - Nick Jr." tvg-logo="" group-title="Infantiles", Nick Jr
-
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.ar" tvg-name="AR - Cartoon Network" tvg-logo="" group-title="Infantiles", Cartoon Network
-
+http://158.172.217.18:8000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito.ar" tvg-name="AR - Cartoonito" tvg-logo="" group-title="Infantiles", Cartoonito
-
+http://45.173.12.70:8000/play/a0hh
 
 #EXTINF:-1 tvg-id="DiscoveryKids.ar" tvg-name="AR - Discovery Kids" tvg-logo="" group-title="Infantiles", Discovery Kids
-
+http://38.134.250.110:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="Dreamworks.ar" tvg-name="AR - Dreamworks" tvg-logo="" group-title="Infantiles", Dreamworks
 
 #EXTINF:-1 tvg-id="Tooncast.ar" tvg-name="AR - Tooncast" tvg-logo="" group-title="Infantiles", Tooncast
-
+http://190.61.42.218:9000/play/a06i/index.m3u8
 
 #EXTINF:-1 tvg-id="PakaPaka.ar" tvg-name="AR - Paka Paka" tvg-logo="" group-title="Infantiles", Paka Paka
-
+http://138.59.227.20:8000/play/a05t/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO.ar" tvg-name="AR - HBO" tvg-logo="" group-title="Cine y Series", HBO
-
+https://streaming.onnethn.com/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-name="AR - HBO 2" tvg-logo="" group-title="Cine y Series", HBO 2
-
+http://45.171.64.30:6060/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOFamily.ar" tvg-name="AR - HBO Family" tvg-logo="" group-title="Cine y Series", HBO Family
-
+http://45.171.64.30:6060/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPlus(Panamericano).ar" tvg-name="AR - HBO Plus (Panamericano)" tvg-logo="" group-title="Cine y Series", HBO Plus
 
@@ -186,9 +186,10 @@ http://38.65.175.84:8000/play/a093/index.m3u8
 
 
 #EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="AR - Warner Channel" tvg-logo="" group-title="Cine y Series", Warner Channel
-
+http://38.134.250.110:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.ar" tvg-name="AR - Sony" tvg-logo="g" group-title="Cine y Series", Sony Channel
+http://138.121.15.230:9002/SONY/index.m3u8
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Cine y Series", Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -208,6 +209,8 @@ http://187.102.210.46/universo/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="AR - AMC" tvg-logo="" group-title="Cine y Series", AMC
 
+#EXTINF:-1 tvg-id="AMCSeries.ar" tvg-name="AR - AMC Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/AMC_Series_2025_2.png/revision/latest?cb=20250927151709&path-prefix=es" group-title="Cine y Series", AMC Series
+http://45.171.64.30:6060/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="AR - Europa Europa" tvg-logo="" group-title="Cine y Series",Europa Europa
 https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
@@ -234,7 +237,7 @@ https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="GoldenPlus.lat" tvg-name="Golden Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/golden-plus-latam.png" group-title="Cine y Series",Golden Plus
-
+http://45.5.118.152:8000/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPremier.lat" tvg-name="Golden Premier" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/golden-premier-latam.png" group-title="Cine y Series",Golden Premier
 
@@ -255,17 +258,17 @@ https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ar" tvg-name="AR - Investigacion Discovery" tvg-logo="" group-title="Cine y Series",ID Investigacion Discovery
-
+http://38.65.175.84:8000/play/a0ch/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.ar" tvg-name="AR - Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-channel-latam.png" group-title="Documentales",Discovery Channel
-
+http://45.171.64.30:6060/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTheater.lat" tvg-name="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-theater-latam.png" group-title="Documentales",Discovery Theater
-
+http://181.224.200.5:2277/play/a0bj/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryScience.lat" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-science-latam.png" group-title="Documentales",Discovery Science
-
+http://45.171.64.30:6060/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="AR - National Geographic" tvg-logo="" group-title="Documentales", National Geographic
 
@@ -281,15 +284,15 @@ https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 
 
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="AR - El Gourmet" tvg-logo="" group-title="Estilo de Vida",El Gourmet
-
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHomeHealth.ar" tvg-name="AR - Discovery Home & Health" tvg-logo="" group-title="Estilo de Vida", Discovery Home & Health
 
 
 #EXTINF:-1 tvg-id="TLC.lat" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tlc-latam.png" group-title="Estilo de Vida",TLC
-
+http://38.134.250.110:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.ar" tvg-name="AR - HGTV" tvg-logo="" group-title="Estilo de Vida", HGTV
-
+http://38.87.224.19:2220/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryWorld.lat" tvg-name="Discovery World" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-world-latam.png" group-title="Estilo de Vida",Discovery World
