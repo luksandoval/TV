@@ -54,7 +54,7 @@ http://45.170.130.224:8000/play/a020/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="AR - ESPN 2" tvg-logo="" group-title="Deportes", ESPN 2
-http://190.61.47.54:8000/play/a005/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="AR - ESPN 3" tvg-logo="" group-title="Deportes", ESPN 3
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
@@ -81,7 +81,7 @@ https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
 
 
 #EXTINF:-1 tvg-id="FOXSportsConoSur.ar" tvg-name="AR - FOX Sports Cono Sur" tvg-logo="" group-title="Deportes", Fox Sports
-http://138.59.227.20:8000/play/a085/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="AR - Fox Sports 2" tvg-logo="" group-title="Deportes",Fox Sports 2
 
@@ -153,7 +153,7 @@ http://138.59.227.20:8000/play/a085/index.m3u8
 
 
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="AR - Star Channel" tvg-logo="" group-title="Cine y Series", Star Channel
-http://190.61.47.54:8000/play/a035/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FX.ar" tvg-name="AR - FX" tvg-logo="" group-title="Cine y Series", FX
 
@@ -174,7 +174,7 @@ http://38.65.175.84:8000/play/a093/index.m3u8
 
 
 #EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="AR - Warner Channel" tvg-logo="" group-title="Cine y Series", Warner Channel
-http://38.134.250.110:8000/play/a029/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Sony.ar" tvg-name="AR - Sony" tvg-logo="g" group-title="Cine y Series", Sony Channel
 
@@ -189,7 +189,7 @@ http://181.78.8.199:8000/play/a0cu/index.m3u8
 http://187.102.210.46/universo/index.m3u8
 
 #EXTINF:-1 tvg-id="AandE.ar" tvg-name="AR - A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/a-and-e-latam.png" group-title="Cine y Series",A&E
-http://138.121.15.230:9002/A&E/index.m3u8
+
 
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="AR - AMC" tvg-logo="" group-title="Cine y Series", AMC
 
