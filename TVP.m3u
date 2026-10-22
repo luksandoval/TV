@@ -5,7 +5,7 @@
 http://45.173.231.22:8000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="AR - El Trece" tvg-logo=" group-title="Nacionales y Aire",El Trece
-
+http://190.108.83.69:8000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="AR - América TV" tvg-logo="" group-title="Nacionales y Aire", America tv
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -114,7 +114,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="AR - Disney Junior" tvg-logo="" group-title="Infantiles", Disney Jr
-
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="Nickelodeon.ar" tvg-name="AR - Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/nickelodeon-latam.png" group-title="Infantiles", Nickelodeon
 
